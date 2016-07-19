@@ -90,7 +90,8 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["We are a Web Studio", "Melange Design", "Love Simplicity", "Love Modernism", "Love Futurism", "Love Suprematism", "Love Surrealism", "Love Tachisme", "Love Surrealism", "Love Surrealism", "Love Surrealism"], //http://www.art-spb.ru/article/34/5
+        // strings: ["We are a Web Studio", "Melange Design", "Love Simplicity", "Love Modernism", "Love Futurism", "Love Suprematism", "Love Surrealism", "Love Tachisme", "Love Surrealism", "Love Surrealism", "Love Surrealism"], //http://www.art-spb.ru/article/34/5
+        strings: ["Web Design", "Web Develop", "User Experience Design", "User Interface Design", "Front End Develop", "Back End Develop"], //http://www.art-spb.ru/article/34/5
         typeSpeed: 100,
         backDelay: 900,
         // loop
